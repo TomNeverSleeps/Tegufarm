@@ -1,11 +1,6 @@
 body {
   background-color: #f8f8f8;
   font-family: Arial, sans-serif;
-  margin: 0;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 title {
   color: blue;
@@ -15,5 +10,5 @@ h1 {
   color: blue;
 }
 p {
-  font-family: Italic;
+  font-family: Bold;
 }
