@@ -1,4 +1,4 @@
-document.body.insertAdjacentHTML("beoreend", "<p>JS is working</p>");
+document.body.insertAdjacentHTML("beforeend", "<p>JS is working</p>");
 console.log("Website loaded successfully!");
 
 function showAlert() {
